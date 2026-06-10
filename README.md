@@ -285,7 +285,7 @@ print('Data Science')
 
 ```python
 """
-Author: Velocity Academy
+Author: x Academy
 Date: 2025
 Purpose: Python fundamentals
 """
@@ -4580,8 +4580,8 @@ obj.method_name()              # Call method
 ```python
 # Simplest class
 class MyFunc:
-    print('Hello Velocity Family !!')
-# Output: Hello Velocity Family !! (executes when class is defined!)
+    print('Hello x Family !!')
+# Output: Hello x Family !! (executes when class is defined!)
 ```
 
 ```python
@@ -4672,7 +4672,7 @@ CalObj.exponent()          # Exponent: 125
 
 ```python
 class Student:
-    school = 'Velocity Academy'    # Class variable (shared)
+    school = 'x Academy'    # Class variable (shared)
     count = 0
 
     def __init__(self, name, age):
@@ -4683,8 +4683,8 @@ class Student:
 s1 = Student('Alice', 20)
 s2 = Student('Bob', 22)
 
-print(s1.name, s1.school)    # Alice Velocity Academy
-print(s2.name, s2.school)    # Bob Velocity Academy
+print(s1.name, s1.school)    # Alice x Academy
+print(s2.name, s2.school)    # Bob x Academy
 print(Student.count)          # 2
 ```
 
